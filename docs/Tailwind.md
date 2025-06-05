@@ -59,9 +59,11 @@ module.exports = {
 
 ### 예제코드
 
+```jsx
 <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
   클릭하세요
 </button>
+```
 
 - bg-blue-500 → 배경색
 
@@ -75,9 +77,10 @@ module.exports = {
 
 ## 반응형 디자인
 
-<h1 class="text-base md:text-lg lg:text-2xl">
-  반응형 텍스트입니다.
-</h1>
+```jsx
+<h1 class="text-base md:text-lg lg:text-2xl">반응형 텍스트입니다.</h1>
+```
+
 text-base → 기본 크기
 
 md:text-lg → 중간 화면 이상에서 크기 변경
