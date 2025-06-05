@@ -17,7 +17,7 @@
 
 ## 2. 기본 HTML 폼 유효성 검사도 쓸 수 있다
 
-- <input required /> 같은 기본 브라우저 검사를 그대로 쓸 수 있다
+- input required /> 같은 기본 브라우저 검사를 그대로 쓸 수 있다
 - 그외에도 minLength, pattern 같은 속성도 인식한다
 
 ## 3. UI라이브러리랑 바로 연결 가능하다
